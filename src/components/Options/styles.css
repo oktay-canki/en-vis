@@ -1,0 +1,21 @@
+.opt-container {
+    height: auto;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.inp-row {
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.desc-label {
+    margin-right: 10px;
+}
+
+.btn-act {
+    width: 45%;
+    margin-right: 5px;
+    color: white;
+}

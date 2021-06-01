@@ -1,0 +1,36 @@
+.input-container {
+    height: auto;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.input-text {
+    height: 110px;
+    background-color: #282c34;
+    color: white;
+}
+
+.input-text:focus {
+    background-color: #282c34;
+    color: white;
+}
+
+.no-shadow:focus {
+    box-shadow: none;
+    outline: none;
+}
+
+.input-footer {
+    color: darkgray;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.btn-clear {
+    float: right;
+    margin-bottom: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
